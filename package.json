@@ -2,6 +2,7 @@
   "name": "reason-hasura-demo",
   "version": "0.1.0",
   "private": true,
+  "keywords": ["hasura","reasonml","graphql","reason-apollo"],
   "dependencies": {
     "@glennsl/bs-json": "4.0.0",
     "animate.css": "3.7.2",
